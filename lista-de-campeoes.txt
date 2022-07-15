@@ -1,0 +1,9 @@
+Lucas     -->    600
+matheus   -->    400
+João      -->    700
+Lopes     -->    100
+Giovanna  -->    200
+Pedro     -->    900
+Kaio      -->    500
+leticia   -->    600
+mônica    -->    800
